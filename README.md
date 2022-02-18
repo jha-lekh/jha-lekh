@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jha-lekh .
 - 👀 I’m interested in Internships .
-- 🌱 I’m currently learning HTML , CSS , JAVASCRIPT , PYTHON .
+- 🌱 I’m have good knowledge in programming languages like PYTHON, JAVA, C++, DATABASES .
 - 📫 Anyone interested in my profile can reach me through E-mail.. "jhasameer40@gmail.com" .
 
 <!---
